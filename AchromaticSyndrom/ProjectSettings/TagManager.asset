@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGround
+    uniqueID: 337040445
+    locked: 0
+  - name: Character
+    uniqueID: 1063356405
+    locked: 0
+  - name: UI
+    uniqueID: 3656341947
+    locked: 0
+  - name: Dialogue
+    uniqueID: 3544534745
+    locked: 0
